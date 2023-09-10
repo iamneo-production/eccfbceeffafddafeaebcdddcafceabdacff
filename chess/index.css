@@ -5,7 +5,25 @@
     margin:20px;
     border:7px solid #686868;
 }
-.green
+.black
 {
-    
+    float:left;
+    width:80px;
+    height: 80px;
+    background-color: #00A36C;
+    font-size:50px;
+    text-align:center;
+    vertical-align:middle;
+}
+
+.white
+{
+    float:left;
+    width:80px;
+    height:80px;
+    background-color: #fff;
+    font-size:50px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
 }
